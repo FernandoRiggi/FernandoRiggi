@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 📫 How to reach me: **Fernando_De_Riggi@outlook.com** | [LinkedIn](https://www.linkedin.com/in/fernando-souza-de-riggi-7904082ba/)
+- 📫 How to reach me: **Fernando_De_Riggi@outlook.com** | [LinkedIn](https://www.linkedin.com/in/fernandoriggi/)
 
 
 # 💻 Tech Stack:
