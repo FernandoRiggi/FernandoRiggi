@@ -1,32 +1,78 @@
-<h1 align="center">Hi 👋, I'm Fernando De Riggi</h1>
-<h3 align="center">Backend Developer & Software Engineering Student</h3>
+<h1 align="center">Fernando Souza De Riggi</h1>
+<h3 align="center">Backend Developer | TypeScript | Cloud & Architecture</h3>
 
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 👨‍💻 About Me
 
+Backend Developer Intern at Salespace and Software Engineering student at IFSP.
 
-- 📫 How to reach me: **Fernando_De_Riggi@outlook.com** | [LinkedIn](https://www.linkedin.com/in/fernandoriggi/)
+I build backend systems with a strong focus on architecture, maintainability and scalability.  
+My goal is to become a backend engineer capable of designing reliable and high-performance systems.
 
+Currently deepening my knowledge in:
+- System Design
+- Clean Architecture
+- Design Patterns
+- Distributed Systems fundamentals
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+---
 
-## 🛠️ Backend & DevOps:
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+## 💼 Experience
 
-## 🗄️ Databases:
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+### Backend Developer Intern — Salespace
 
+- Designed and implemented REST APIs using TypeScript and Node.js  
+- Developed complex discount and validation logic  
+- Integrated backend services with AWS  
+- Modeled relational and NoSQL databases (PostgreSQL & DynamoDB)  
+- Wrote unit and integration tests  
+- Refactored code to improve maintainability and structure  
 
-# 📈 Contribution Graph:
-![](https://github-readme-activity-graph.vercel.app/graph?username=FernandoRiggi&theme=tokyonight)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FernandoRiggi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FernandoRiggi&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoRiggi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🛠 Technical Skills
 
+### Backend
+TypeScript • Node.js • REST API Design • SOLID • Design Patterns • Dependency Injection
 
+### Databases
+PostgreSQL • DynamoDB • Relational & NoSQL Modeling
+
+### Cloud & DevOps
+AWS • Docker • Linux • Git
+
+### Testing
+Jest • Unit Testing • Integration Testing
+
+---
+
+## 📌 Selected Projects
+
+### 🔹 Finanzen API  
+Personal finance backend API built with Java (Spring-based structure).
+
+- RESTful API design  
+- Business rule implementation  
+- PostgreSQL integration  
+- Focus on separation of concerns and maintainability  
+
+### 🔹 Salespace Backend Challenge  
+Discount engine responsible for calculating dynamic business rules.
+
+- Complex rule evaluation logic  
+- Edge case handling  
+- Emphasis on correctness and testability  
+
+---
+
+## 🌍 Languages
+
+Portuguese — Native  
+English — C1 (Cambridge Certified)
+
+---
+
+## 🎯 Engineering Interests
+
+System Design • Scalable Backend Systems • Architecture • Performance Optimization • Code Quality
